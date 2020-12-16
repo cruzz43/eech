@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""join this group for help-- @favaioG\n\nReply with your desired file or Media using these Commands\n\n/ytdl@tleeechbot-Youtube links to Telegram\n\n/leech@tleeechbot-Torrent to Telegram\n\n/tleech@tleeechbot-Telegram to Gdrive\n\n/gleech@tleeechbot-Torrent to Gdrive \n\n PORN LEECH = Instant BAN""", disable_web_page_preview=True)
+    await message.reply_text("""Read Pinned Message or Watch the Video \n @favaioG""", disable_web_page_preview=True)
 
 
 # async def rename_message_f(client, message):
